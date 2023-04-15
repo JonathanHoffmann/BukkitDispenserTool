@@ -1,0 +1,4 @@
+name: DispenserTool
+version: 1.0
+main: me.jonnyfant.bukkitdispensertool.DispenserTool
+api-version: 1.19
